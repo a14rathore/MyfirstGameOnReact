@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyfirstGameOnReact/static/css/main.12717299.chunk.css",
+    "main.js": "/MyfirstGameOnReact/static/js/main.9290b161.chunk.js",
+    "main.js.map": "/MyfirstGameOnReact/static/js/main.9290b161.chunk.js.map",
+    "runtime-main.js": "/MyfirstGameOnReact/static/js/runtime-main.f377fffe.js",
+    "runtime-main.js.map": "/MyfirstGameOnReact/static/js/runtime-main.f377fffe.js.map",
+    "static/js/2.56d65df5.chunk.js": "/MyfirstGameOnReact/static/js/2.56d65df5.chunk.js",
+    "static/js/2.56d65df5.chunk.js.map": "/MyfirstGameOnReact/static/js/2.56d65df5.chunk.js.map",
+    "static/js/3.eae470c5.chunk.js": "/MyfirstGameOnReact/static/js/3.eae470c5.chunk.js",
+    "static/js/3.eae470c5.chunk.js.map": "/MyfirstGameOnReact/static/js/3.eae470c5.chunk.js.map",
+    "index.html": "/MyfirstGameOnReact/index.html",
+    "static/css/main.12717299.chunk.css.map": "/MyfirstGameOnReact/static/css/main.12717299.chunk.css.map",
+    "static/js/2.56d65df5.chunk.js.LICENSE.txt": "/MyfirstGameOnReact/static/js/2.56d65df5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f377fffe.js",
+    "static/js/2.56d65df5.chunk.js",
+    "static/css/main.12717299.chunk.css",
+    "static/js/main.9290b161.chunk.js"
+  ]
+}
